@@ -1,0 +1,25 @@
+﻿@model NewsDto
+
+<div class="row">
+<div class="col-md-3">
+<img src="~/images/galatasaray.jpg" class="w-100 img-thumbnail img-fluid" alt="" />
+</div>
+
+<div class="col-md-9">
+
+    <div class="card">
+       <h4 class="card-header ">@Model.Title</h4>
+        <div class="card-body">
+            <h5 class="card-title">@Model.Description</h5>   
+            <p class="card-text">@Model.Content</p>
+            <a asp-action="Index" asp-controller="News" class="btn btn-warning float-right">Back</a>
+        </div>
+    </div>
+
+
+</div>
+
+
+</div>
+
+@* BURDA NEDEN AUTHORNAME BOŞ GELİYO *@

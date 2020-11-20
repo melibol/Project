@@ -1,0 +1,58 @@
+﻿@model UserDto
+@{
+    Layout = null;
+}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <form class="w-50 mx-auto p-4 mt-3 shadow" asp-action="SignIn" asp-controller="User">
+        <h4 class="text-center lead">Login</h4>
+        <div class="form-group">
+            <input asp-for="@Model.Email" class="form-control" />
+
+        </div>
+
+        <div class="form-group">
+            <input asp-for="@Model.Password" class="form-control" />
+
+        </div>
+        <input type="submit" class="btn btn-primary" value="Login" />
+        @*<small>You don't have an account?</small> <a asp-action="Register" class="btn btn-link">Register</a>*@
+    </form>
+
+    <form method="post" asp-action="Register" class="w-50 mx-auto p-4 mt-3 shadow">
+        <h4 class="text-center lead">Register</h4>
+        <div class="formbox">
+            <span asp-validation-for="@Model.Name" class="text-danger"></span>
+            <input type="text" asp-for="Name" class="form-control" placeholder="First name">
+            <span asp-validation-for="@Model.Surname" class="text-danger"></span>
+            <input type="text" asp-for="Surname" class="form-control" placeholder="Last name">
+
+        </div>
+
+        <div class="formbox">
+            <span asp-validation-for="@Model.Email" class="text-danger"></span>
+            <input type="text" asp-for="Email" class="form-control " placeholder="Email">
+        </div>
+
+        <div class="formbox">
+            <span asp-validation-for="@Model.Password" class="text-danger"></span>
+            <input type="password" asp-for="Password" class="form-control" placeholder="Password">
+        </div>
+
+
+
+        <div class="formbox">
+            <button type="submit" class="btn btn-danger">Sign Up</button>
+        </div>
+
+    </form>
+
+
+</body>
+</html>

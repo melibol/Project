@@ -1,0 +1,14 @@
+C:\Users\m.elibol\source\repos\News_Demo\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\m.elibol\source\repos\News_Demo\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\m.elibol\source\repos\News_Demo\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\m.elibol\source\repos\News_Demo\Core\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\m.elibol\source\repos\News_Demo\Core\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\m.elibol\source\repos\News_Demo\Core\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\m.elibol\source\repos\News_Demo\Core\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\m.elibol\source\repos\News_Demo\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\m.elibol\source\repos\News_Demo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\m.elibol\source\repos\News_Demo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\m.elibol\source\repos\News_Demo\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\m.elibol\source\repos\News_Demo\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+C:\Users\m.elibol\source\repos\News_Demo\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\m.elibol\source\repos\News_Demo\Core\obj\Debug\netcoreapp3.1\Core.pdb

@@ -1,0 +1,9 @@
+C:\Users\m.elibol\source\repos\News_Demo\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\m.elibol\source\repos\News_Demo\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\m.elibol\source\repos\News_Demo\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\m.elibol\source\repos\News_Demo\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\m.elibol\source\repos\News_Demo\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\m.elibol\source\repos\News_Demo\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\m.elibol\source\repos\News_Demo\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\m.elibol\source\repos\News_Demo\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\m.elibol\source\repos\News_Demo\Common\obj\Debug\netcoreapp3.1\Common.pdb
